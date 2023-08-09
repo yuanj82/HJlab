@@ -1,4 +1,4 @@
-baseurl = "www.huangjin-lab.cn"
+baseurl = "https://huangjin-lab.cn/"
 title = "Molecular Ecology & Molecular Toxicology Research Group"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
