@@ -1,0 +1,20 @@
+default:
+  image: ubuntu:latest
+
+CF_Workers_deploy:
+  stage: deploy
+  only:
+    - main
+  script:
+    - sed -i 's@//.*archive.ubuntu.com@//mirrors.ustc.edu.cn@g' /etc/apt/sources.list
+    - apt-get update && apt-get install -y hugo curl
+    - curl -sL https://deb.nodesource.com/setup_18.x | bash -
+    - apt-get update && apt-get install -y nodejs build-essential
+    - hugo
+    - npm config set registry https://registry.npmmirror.com/
+    - npm install wrangler -g
+    - npm install @cloudflare/kv-asset-handler
+    - wrangler deploy
+  variables:
+    CLOUDFLARE_API_TOKEN: $CF_API_TOKEN
+    CLOUDFLARE_ACCOUNT_ID: $CF_ACCOUNT_ID

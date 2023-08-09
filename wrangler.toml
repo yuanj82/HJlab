@@ -1,0 +1,5 @@
+name = "labpage"
+main = "src/index.js"
+compatibility_date = "2023-07-26"
+
+site = { bucket = "./public" }
