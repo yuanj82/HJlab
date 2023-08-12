@@ -51,20 +51,20 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 [Params.sidebar]
   home = "right" # Configure layout for home page
   list = "left"  # Configure layout for list pages
-  single = false # Configure layout for single pages
+  single = true # Configure layout for single pages
   # Enable widgets in given order
   widgets = ["search", "categories", "taglist", "social", "languages"]
 
 [Params.widgets.social]
-  cached = true # activate cache if true
+  cached = false # activate cache if true
   # Enable parts of social widget
-  email = "example@example.com"
+  email = "huangjin18@cdut.edu.cn"
 
 # Custom social links
 
 [[Params.widgets.social.custom]]
   title = ""
-  url = "https://HJ LAB-lab.cn"
+  url = "https://www.cdut.edu.cn/index.htm"
   icon = "cdut.svg"
 
 [Params.widgets.search]
