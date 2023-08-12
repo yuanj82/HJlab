@@ -1,9 +1,9 @@
 ---
-title: Contact
+title: CONTACT US
 menu:
   main:
-    name: Contact
-    weight: 4
+    name: CONTACT US
+    weight: 6
 ---
 
 ## Step 1. Install Hugo

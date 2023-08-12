@@ -1,8 +1,7 @@
 ---
-title: News
-thumbnail: "images/logo.png"
+title: NEWS
 menu:
   main:
-    name: News
+    name: NEWS
     weight: 3
 ---

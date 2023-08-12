@@ -1,8 +1,8 @@
 ---
-title: About
+title: ABOUT US
 menu:
   main:
-    name: About
+    name: ABOUT US
     weight: 1
 ---
 

@@ -18,8 +18,8 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   schema = true # Enable Schema
   twitter_cards = true # Enable Twitter Cards if true
   readmore = false # Show "Read more" button in list if true
-  authorbox = true # Show authorbox at bottom of pages if true
-  toc = true # Enable Table of Contents
+  authorbox = false # Show authorbox at bottom of pages if true
+  toc = false # Enable Table of Contents
   pager = false # Show pager navigation (prev/next links) at the bottom of pages if true
   post_meta = [] # Order of post meta information
   dateformat = "2006-01-02" # Change the format of dates
@@ -63,8 +63,9 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 # Custom social links
 
 [[Params.widgets.social.custom]]
-  title = "My Home Page"
+  title = ""
   url = "https://HJ LAB-lab.cn"
+  icon = "cdut.svg"
 
 [Params.widgets.search]
   cached = false # activate cache if true

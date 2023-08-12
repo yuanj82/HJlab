@@ -1,9 +1,8 @@
 ---
-title: Publications
-thumbnail: "images/logo.png"
+title: PUBLICATIONS
 menu:
   main:
-    name: publications
+    name: PUBLICATIONS
     weight: 2
 ---
 
