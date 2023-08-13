@@ -55,7 +55,7 @@ menu:
     <td style="border:none;"><strong>JiangWenjun, MS<br>
         Master's degree in Biotechnology and Engineering at Chengdu University of Technology, 2022.</strong><br> 
     </td> 
-    <td style="border:none;"><a href="/resume/zhouyingxu.doc"><img src="/images/members/default.png" width='150px'></a></td>
+    <td style="border:none;"><a href="/resume/zhouyingxu.doc"><img src="/images/members/zhouyingxu.jpg" width='150px'></a></td>
     <td style="border:none;"><strong>ZhouYingxu, MS<br>
         Master's degree in Biotechnology and Engineering at Chengdu University of Technology, 2023.</strong><br>
     </td>
