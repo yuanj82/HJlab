@@ -1,4 +1,4 @@
-baseurl = "https://huangjin-lab.cn/"
+baseurl = "https://huangjin-lab.cn"
 title = "Molecular Ecology & Molecular Toxicology Research Group"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
@@ -73,3 +73,5 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   [Params.widgets.search.input]
     name = "sitesearch"
     pre = ""
+  [markup]
+  defaultMarkdownHandler = "blackfriday"
