@@ -68,7 +68,7 @@ menu:
 
 <table style="border:none; font-size: 90%; width:30%;">
 <tr style="border:none;">
-    <td style="border:none;"><a href="/resume/jiayanru.doc"><img src="/images/members/default.png" width='150px'></a></td>
+    <td style="border:none;"><a href="/resume/jiayanru.doc"><img src="/images/members/jiayanru.jpg" width='150px'></a></td>
     <td style="border:none;"><strong>JiaYanru, MS<br>
         Master's degree in Biotechnology and Engineering at Chengdu University of Technology, 2023.</strong><br> 
     </td>            
