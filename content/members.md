@@ -36,11 +36,11 @@ menu:
 <tr style="border:none;">
     <td style="border:none;"><a href="/resume/shiyang.doc"><img src="/images/members/shiyang.jpg" width='150px'></a></td>
     <td style="border:none;"><strong>ShiYang, MS<br>
-        Master's degree candidate in Biology and Medicine at Chengdu University of Technology in 2020.</strong><br>
+        Master's degree candidate in Biology and Medicine at Chengdu University of Technology, 2020.</strong><br>
     </td>
     <td style="border:none;"><a href="/resume/jiangnan.doc"><img src="/images/members/default.png" width='150px'></a></td>
     <td style="border:none;"><strong>JiangNan, MS<br>
-        Master's degree candidate in Biology and Medicine at Chengdu University of Technology in 2021.</strong><br>
+        Master's degree candidate in Biology and Medicine at Chengdu University of Technology, 2021.</strong><br>
     </td>
     <td style="border:none;"><a href="/resume/limingyu.doc"><img src="/images/members/default.png" width='150px'></a></td>
     <td style="border:none;"><strong>LiMingyu, MS<br>
@@ -55,22 +55,26 @@ menu:
     <td style="border:none;"><strong>JiangWenjun, MS<br>
         Master's degree in Biotechnology and Engineering at Chengdu University of Technology, 2022.</strong><br> 
     </td> 
+    <td style="border:none;"><a href="/resume/wulongying.doc"><img src="/images/members/default.png" width='150px'></a></td>
+    <td style="border:none;"><strong>WuLongying, MS<br>
+        Master's degree in Biotechnology and Engineering at Chengdu University of Technology, 2022.</strong><br>
+    </td>  
     <td style="border:none;"><a href="/resume/zhouyingxu.doc"><img src="/images/members/zhouyingxu.jpg" width='150px'></a></td>
     <td style="border:none;"><strong>ZhouYingxu, MS<br>
         Master's degree in Biotechnology and Engineering at Chengdu University of Technology, 2023.</strong><br>
-    </td>
-    <td style="border:none;"><a href="https://www.hieroglyphs.top/resume/"><img src="/images/members/jiaoyuan.jpg" width='150px'></a></td>
-    <td style="border:none;"><strong>JiaoYuan, B.Eng<br>
-        Chengdu University of Technology, majoring in Environmental Science and Engineering.</strong><br> 
-    </td>           
+    </td>  
   </tr>   
 </table> 
 
-<table style="border:none; font-size: 90%; width:30%;">
+<table style="border:none; font-size: 90%; width:60%;">
 <tr style="border:none;">
     <td style="border:none;"><a href="/resume/jiayanru.doc"><img src="/images/members/jiayanru.jpg" width='150px'></a></td>
     <td style="border:none;"><strong>JiaYanru, MS<br>
         Master's degree in Biotechnology and Engineering at Chengdu University of Technology, 2023.</strong><br> 
+    </td> 
+    <td style="border:none;"><a href="https://www.hieroglyphs.top/resume/"><img src="/images/members/jiaoyuan.jpg" width='150px'></a></td>
+    <td style="border:none;"><strong>JiaoYuan, B.Eng<br>
+        Chengdu University of Technology, majoring in Environmental Science and Engineering.</strong><br> 
     </td>            
   </tr>   
 </table> 
