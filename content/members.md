@@ -38,11 +38,11 @@ menu:
     <td style="border:none;"><strong>ShiYang, MS<br>
         Master's degree candidate in Biology and Medicine at Chengdu University of Technology, 2020.</strong><br>
     </td>
-    <td style="border:none;"><a href="/resume/jiangnan.doc"><img src="/images/members/default.png" width='150px'></a></td>
+    <td style="border:none;"><a href="/resume/jiangnan.doc"><img src="/images/members/jiangnan.jpg" width='150px'></a></td>
     <td style="border:none;"><strong>JiangNan, MS<br>
         Master's degree candidate in Biology and Medicine at Chengdu University of Technology, 2021.</strong><br>
     </td>
-    <td style="border:none;"><a href="/resume/limingyu.doc"><img src="/images/members/default.png" width='150px'></a></td>
+    <td style="border:none;"><a href="/resume/limingyu.doc"><img src="/images/members/limingyu.jpg" width='150px'></a></td>
     <td style="border:none;"><strong>LiMingyu, MS<br>
         Master's degree in Biology and Medicine at Chengdu University of Technology, 2021.</strong><br>
     </td>
@@ -51,7 +51,7 @@ menu:
 
 <table style="border:none; font-size: 90%; width:90%;">
 <tr style="border:none;">
-    <td style="border:none;"><a href="/resume/jiangwenjun.docx"><img src="/images/members/default.png" width='150px'></a></td>
+    <td style="border:none;"><a href="/resume/jiangwenjun.docx"><img src="/images/members/jiangwenjun.jpg" width='150px'></a></td>
     <td style="border:none;"><strong>JiangWenjun, MS<br>
         Master's degree in Biotechnology and Engineering at Chengdu University of Technology, 2022.</strong><br> 
     </td> 
