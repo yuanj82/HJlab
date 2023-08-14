@@ -77,7 +77,16 @@ menu:
         Bachelor's degree in Environmental Science and Engineering from Chengdu University of Technology, 2021.</strong><br> 
     </td>   
     <td style="border:none;"><img src="/images/members/huangqianqian.jpg" width='150px'></td>
-    <td style="border:none;"><strong>JiaoYuan, B.Eng<br>
+    <td style="border:none;"><strong>HuangQianqian, B.Eng<br>
+        Bachelor's degree in Environmental Science and Engineering from Chengdu University of Technology, 2022.</strong><br> 
+    </td>          
+  </tr>   
+</table> 
+
+<table style="border:none; font-size: 90%; width:30%;">
+<tr style="border:none;">
+    <td style="border:none;"><img src="/images/members/qianjiahao.jpg" width='150px'></td>
+    <td style="border:none;"><strong>QianJiahao, B.Eng<br>
         Bachelor's degree in Environmental Science and Engineering from Chengdu University of Technology, 2022.</strong><br> 
     </td>          
   </tr>   
