@@ -83,11 +83,15 @@ menu:
   </tr>   
 </table> 
 
-<table style="border:none; font-size: 90%; width:30%;">
+<table style="border:none; font-size: 90%; width:60%;">
 <tr style="border:none;">
     <td style="border:none;"><img src="/images/members/qianjiahao.jpg" width='150px'></td>
     <td style="border:none;"><strong>QianJiahao, B.Eng<br>
         Bachelor's degree in Environmental Science and Engineering from Chengdu University of Technology, 2022.</strong><br> 
+    </td>           
+    <td style="border:none;"><img src="/images/members/weipeili.jpg" width='150px'></td>
+    <td style="border:none;"><strong>WeiPeili, B.Eng<br>
+        Bachelor's degree in Environmental Science and Engineering from Chengdu University of Technology, 2022.</strong><br> 
     </td>          
-  </tr>   
+  </tr> 
 </table> 
