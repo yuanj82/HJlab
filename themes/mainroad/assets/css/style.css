@@ -1049,7 +1049,7 @@ textarea {
 
 /* Widgets */
 .widget {
-	margin-bottom: 25px;
+	margin-bottom: 25px !important;
 	overflow: hidden;
 }
 
@@ -1067,7 +1067,7 @@ textarea {
 }
 
 .widget__item {
-	display: block;
+	display: block !important;
 	padding: 5px 0;
 	border-bottom: 1px dotted #ebebeb;
 }
@@ -1126,7 +1126,7 @@ textarea {
 }
 
 .widget-social__link {
-	display: block;
+	display: block !important;
 	margin: 0 0 8px;
 	white-space: normal;
 }
@@ -1147,7 +1147,7 @@ textarea {
 
 /* Languages Widget */
 .widget-languages__link {
-	display: block;
+	display: block !important;
 }
 
 .widget-languages__link:hover .widget-languages__link-btn {
