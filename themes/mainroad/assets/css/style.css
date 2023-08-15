@@ -1111,7 +1111,6 @@ textarea {
 	border-radius: 0;
 	outline-offset: -2px;
 	transition: none;
-	-webkit-appearance: none;
 }
 
 .widget-search__field:active,
@@ -1127,14 +1126,14 @@ textarea {
 
 .widget-social__link {
 	display: block !important;
-	margin: 0 0 8px;
-	white-space: normal;
+	margin: 0 0 8px !important;
+	white-space: normal !important;
 }
 
 .widget-social__link-icon {
-	margin: 0 5px 0 0;
-	vertical-align: middle;
-	fill: #fff;
+	margin: 0 5px 0 0 !important;
+	vertical-align: middle !important;
+	fill: #fff !important;
 }
 
 /* Tags Widget */
