@@ -53,7 +53,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   list = "left"  # Configure layout for list pages
   single = true # Configure layout for single pages
   # Enable widgets in given order
-  widgets = ["search", "categories", "taglist", "social", "languages"]
+  widgets = ["search", "categories", "taglist", "languages", "Learn-more"]
 
 [Params.widgets.social]
   cached = false # activate cache if true
@@ -66,6 +66,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   title = ""
   url = "https://www.cdut.edu.cn/index.htm"
   icon = "cdut.svg"
+  rel = "noopener noreferrer" # Set to false to remove the rel attribute
 
 [Params.widgets.search]
   cached = false # activate cache if true
