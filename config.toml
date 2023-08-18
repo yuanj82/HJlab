@@ -73,5 +73,9 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   [Params.widgets.search.input]
     name = "sitesearch"
     pre = ""
-  [markup]
-  defaultMarkdownHandler = "blackfriday"
+
+[markup]
+  defaultMarkdownHandler = "goldmark"
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
