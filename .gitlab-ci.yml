@@ -11,7 +11,7 @@ vercel_deploy:
     - curl -sL https://deb.nodesource.com/setup_18.x | bash -
     - apt-get update && apt-get install -y nodejs build-essential
     - npm install --global vercel
-    - vercel link --project=HJlab --yes --token=$VERCEL_TOKEN
+    - vercel link --project=test --yes --token=$VERCEL_TOKEN
     - vercel pull --yes --environment=production --token=$VERCEL_TOKEN
     - vercel build --prod --token=$VERCEL_TOKEN
     - vercel deploy --prebuilt --prod --token=$VERCEL_TOKEN
