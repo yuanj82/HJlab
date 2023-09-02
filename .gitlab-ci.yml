@@ -1,0 +1,20 @@
+default:
+  image: ubuntu:latest
+
+vercel_deploy:
+  stage: deploy
+  only:
+    - main
+  script:
+    - sed -i 's@//.*archive.ubuntu.com@//mirrors.ustc.edu.cn@g' /etc/apt/sources.list
+    - apt-get update && apt-get install -y hugo curl
+    - curl -sL https://deb.nodesource.com/setup_18.x | bash -
+    - apt-get update && apt-get install -y nodejs build-essential
+    - hugo
+    - ls
+    - cd public
+    - npm install --global vercel
+    - vercel link --project=hjlab --yes --token=$VERCEL_TOKEN
+    - vercel pull --yes --environment=production --token=$VERCEL_TOKEN
+    - vercel build --prod --token=$VERCEL_TOKEN
+    - vercel deploy --prebuilt --prod --token=$VERCEL_TOKEN
