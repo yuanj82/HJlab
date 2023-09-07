@@ -66,13 +66,13 @@ menu:
   </tr>   
 </table> 
 
-<table style="border:none; font-size: 90%; width:90%;">
+<table style="border:none; font-size: 90%; width:60%;">
 <tr style="border:none;">
     <td style="border:none;"><a href="/resume/jiayanru.doc"><img src="/images/members/jiayanru.jpg" width='150px'></a></td>
     <td style="border:none;"><strong>JiaYanru, MS<br>
         Master's degree in Biotechnology and Engineering at Chengdu University of Technology, 2023.</strong><br> 
     </td> 
-    <td style="border:none;"><a href="https://www.hieroglyphs.top/about/"><img src="/images/members/jiaoyuan.jpg" width='150px'></a></td>
+    <td style="border:none;"><a href="https://www.hieroglyphs.top/resume/"><img src="/images/members/jiaoyuan.jpg" width='150px'></a></td>
     <td style="border:none;"><strong>JiaoYuan, B.Eng<br>
         Bachelor's degree in Environmental Science and Engineering from Chengdu University of Technology, 2021.</strong><br> 
     </td>   
@@ -81,17 +81,4 @@ menu:
         Bachelor's degree in Environmental Science and Engineering from Chengdu University of Technology, 2022.</strong><br> 
     </td>          
   </tr>   
-</table> 
-
-<table style="border:none; font-size: 90%; width:60%;">
-<tr style="border:none;">
-    <td style="border:none;"><img src="/images/members/qianjiahao.jpg" width='150px'></td>
-    <td style="border:none;"><strong>QianJiahao, B.Eng<br>
-        Bachelor's degree in Environmental Science and Engineering from Chengdu University of Technology, 2022.</strong><br> 
-    </td>           
-    <td style="border:none;"><img src="/images/members/weipeili.jpg" width='150px'></td>
-    <td style="border:none;"><strong>WeiPeili, B.Eng<br>
-        Bachelor's degree in Environmental Science and Engineering from Chengdu University of Technology, 2022.</strong><br> 
-    </td>          
-  </tr> 
 </table> 
