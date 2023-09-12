@@ -75,10 +75,6 @@ menu:
     <td style="border:none;"><a href="https://www.hieroglyphs.top/resume/"><img src="/images/members/jiaoyuan.jpg" width='150px'></a></td>
     <td style="border:none;"><strong>JiaoYuan, B.Eng<br>
         Bachelor's degree in Environmental Science and Engineering from Chengdu University of Technology, 2021.</strong><br> 
-    </td>   
-    <td style="border:none;"><img src="/images/members/huangqianqian.jpg" width='150px'></td>
-    <td style="border:none;"><strong>HuangQianqian, B.Eng<br>
-        Bachelor's degree in Environmental Science and Engineering from Chengdu University of Technology, 2022.</strong><br> 
-    </td>          
+    </td>            
   </tr>   
 </table> 
