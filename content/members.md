@@ -72,7 +72,7 @@ menu:
     <td style="border:none;"><strong>JiaYanru, MS<br>
         Master's degree in Biotechnology and Engineering at Chengdu University of Technology, 2023.</strong><br> 
     </td> 
-    <td style="border:none;"><a href="https://www.hieroglyphs.top"><img src="/images/members/jiaoyuan.jpg" width='150px'></a></td>
+    <td style="border:none;"><a href="https://yuanj.top/resume"><img src="/images/members/jiaoyuan.jpg" width='150px'></a></td>
     <td style="border:none;"><strong>JiaoYuan, B.Eng<br>
         Bachelor's degree in Environmental Science and Engineering from Chengdu University of Technology, 2021.</strong><br> 
     </td>            
